@@ -1,11 +1,11 @@
-.body { 
-  background: rgb(255, 246, 231);
-}
-
 * { 
   margin: 0; 
   padding: 0; 
   font-family: 'Roboto Slab', serif;
+}
+
+.body { 
+  background: rgb(255, 246, 231);
 }
 
 .dd-vc { 
